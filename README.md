@@ -1,3 +1,3 @@
-# Matrix-in-java
+# some-java-practice
+
 Java tutorial
-Matrix in java.
